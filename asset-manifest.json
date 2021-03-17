@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d8310a6d.chunk.css",
+    "main.js": "/static/js/main.70183d8a.chunk.js",
+    "main.js.map": "/static/js/main.70183d8a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a74ca28a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a74ca28a.js.map",
+    "static/js/2.bed3591f.chunk.js": "/static/js/2.bed3591f.chunk.js",
+    "static/js/2.bed3591f.chunk.js.map": "/static/js/2.bed3591f.chunk.js.map",
+    "static/js/3.fe8e2d46.chunk.js": "/static/js/3.fe8e2d46.chunk.js",
+    "static/js/3.fe8e2d46.chunk.js.map": "/static/js/3.fe8e2d46.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.d8310a6d.chunk.css.map": "/static/css/main.d8310a6d.chunk.css.map",
+    "static/js/2.bed3591f.chunk.js.LICENSE.txt": "/static/js/2.bed3591f.chunk.js.LICENSE.txt",
+    "static/media/03112020 1.ad9f707c.jpg": "/static/media/03112020 1.ad9f707c.jpg",
+    "static/media/04042019 1.5482ea3f.jpg": "/static/media/04042019 1.5482ea3f.jpg",
+    "static/media/05042019 1.11271652.jpg": "/static/media/05042019 1.11271652.jpg",
+    "static/media/10112019 1.e654034e.jpg": "/static/media/10112019 1.e654034e.jpg",
+    "static/media/12122019 1.34b0ee78.jpg": "/static/media/12122019 1.34b0ee78.jpg",
+    "static/media/13112019 1.4e7ce49b.jpg": "/static/media/13112019 1.4e7ce49b.jpg",
+    "static/media/13122019 1.f1a36030.jpg": "/static/media/13122019 1.f1a36030.jpg",
+    "static/media/16092019 1.dfd8a51e.jpg": "/static/media/16092019 1.dfd8a51e.jpg",
+    "static/media/17122019 1.5385ef7a.jpg": "/static/media/17122019 1.5385ef7a.jpg",
+    "static/media/18122019 1.c16730d7.jpg": "/static/media/18122019 1.c16730d7.jpg",
+    "static/media/20122019 1.87158a8a.jpg": "/static/media/20122019 1.87158a8a.jpg",
+    "static/media/26092019 1.b616f1dc.jpg": "/static/media/26092019 1.b616f1dc.jpg",
+    "static/media/31102019 1.6deabbc6.jpg": "/static/media/31102019 1.6deabbc6.jpg",
+    "static/media/index.css": "/static/media/TwentytwelveSansG.30fac48e.woff",
+    "static/media/Footer.css": "/static/media/instagram.fa0d7371.svg",
+    "static/media/Header.css": "/static/media/logo.e0917300.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a74ca28a.js",
+    "static/js/2.bed3591f.chunk.js",
+    "static/css/main.d8310a6d.chunk.css",
+    "static/js/main.70183d8a.chunk.js"
+  ]
+}
